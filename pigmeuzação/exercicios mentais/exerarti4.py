@@ -1,0 +1,6 @@
+print('Digite um valor inteiro para Metros:')
+num1=int(input())
+num2=int(num1*10)
+num3=int(num1*100)
+num4=int(num1*1000)
+print(f"A conversão fica {num2}dm ; {num3}cm ; {num4}mm ")

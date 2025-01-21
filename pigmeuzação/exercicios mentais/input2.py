@@ -1,0 +1,7 @@
+print("Coloque apenas seu dia de nascimento:")
+dia=input()
+print('Coloque apenas seu mês de nascimento (em numero)')
+mes=input()
+print('Coloque apenas seu ano de nascimento')
+ano=input()
+print(f"Seu aniversário é {dia}/{mes}/{ano}")
